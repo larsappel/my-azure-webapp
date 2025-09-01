@@ -10,4 +10,4 @@ A simple static website designed to be served by nginx on Azure.
 This application will be deployed to an Ubuntu VM on Azure running nginx.
 
 ### Azure Deployment
-Some instructions
+Some better instructions
